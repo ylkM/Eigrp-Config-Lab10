@@ -1,0 +1,8 @@
+PC (end host) addressing
+=========================
+IP Address:      192.168.4.1
+Subnet Mask:      255.255.255.0
+Default Gateway:  192.168.4.254   (R4 Gig0/0)
+
+Connected through an unmanaged/access switch to R4 Gig0/0 —
+no switch configuration is required for this lab.
